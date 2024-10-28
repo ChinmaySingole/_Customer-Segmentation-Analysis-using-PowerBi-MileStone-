@@ -1,4 +1,4 @@
-**Customer-Segmentation_Analysis-MileStone_1**
+**Customer-Segmentation_Analysis-MileStone**
 
 
 **overview:**
